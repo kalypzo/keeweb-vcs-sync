@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "manifestVersion": "0.1.0",
+  "name": "vcs-sync",
+  "description": "Use version control for syncing keeweb",
+  "author": {
+    "name": "Darnell Henry",
+    "email": "darnelljh@gmail.com",
+    "url": "https://github.com/kalypzo"
+  },
+  "resources": {
+    "js": true
+  },
+  "license": "MIT",
+  "url": "https://github.com/kalypzo/keeweb-vcs-sync",
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyN9sJ4/lvxPayK8u41xnAyvU7HTeYAwpyroDUmhKVUo7Cj/6RFNJa5PRMTRMA7bIiDGh3/REUyZ/9B4UMAiqRlVy62hEYEllfKsfbbFz5PcquZxhFDkIUJQIMwq73je6T89jgvu0C0fgJwFZcjDXLwR4QoKepwlmo2Wb+IvxOjtcTUDbn+y9zTJhyTUnTZtF77CRDVxzO3JJ+TF4x3hgunesOlQwSdRBB/RIdSh+GxnddH7OOPVkxo0Gw03ffghIoBgUkuNOI5BZc4kX1J25RF01sTcGxI/3eTmwyd9qyJZlbQH46x05lCtlOBZfpxCgp7GR4EZgM54L2F6ayF/m1QIDAQAB"
+}
